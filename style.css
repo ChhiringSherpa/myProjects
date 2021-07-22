@@ -1,0 +1,205 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+   
+}
+
+.navbar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    
+}
+  
+.navbar a{
+    float:left;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.navbar a:hover {
+    color: darkgrey;
+}
+
+.navbar ul{
+   list-style: none;
+   height:60px;
+   line-height: 60px;
+   font-size: 20PX;
+   margin-left: 65%; 
+}
+
+
+
+
+body{
+    background-color: black;
+    
+}
+
+
+
+.introduction {
+    color: lightgrey;
+    margin-top: 300px;
+    margin-left: 30%;
+    
+    
+}
+.intro{
+    font-size: 75px;
+}
+.subintro{
+    color: lightgrey;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.about{
+    color: darkgrey;
+    margin-top: 25%;
+    clear: both;
+    padding-top: 80px;
+}
+
+.aboutme{
+    color: lightgrey;
+    margin-left:40% ;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.description{
+    color: darkgrey;
+    width: 60%;
+    margin-left: 20%; 
+    margin-top: 10px;
+    text-align: justify;
+    padding-top: 5px;
+    line-height: 30px;
+}
+
+.description2{
+    color: darkgrey;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10px;
+    text-align: justify;
+    line-height: 30px;
+   
+
+
+}
+.skills{
+    color: darkgrey;
+    font-size: 30px;
+    padding-top: 15px;
+    font-family: arial;
+    margin-left: 20%; 
+    
+} 
+
+
+.myskills p{
+    color: darkgrey;
+    width: 60%;
+    margin-left: 20%;
+    line-height: 30px;
+
+}
+
+.download{
+    color: darkgrey;
+    margin-left: 20%;
+    margin-top: 10px;
+    padding: 10px 24px 10px;
+    text-align: center;
+    background-color: black;
+    border: 2px solid darkgrey;
+    cursor: pointer;
+}
+
+.download:hover{
+    background-color: white;
+    color: black;
+}
+
+.project{ 
+    margin-top: 0%;
+    color: darkgrey;
+    margin-left: 20%;
+    padding-top: 80px;
+}
+
+.project h1{
+    margin-left: 10%;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.hr1{
+    width:61%;
+    margin-left: 9%;
+}
+
+.project h2{
+    padding-top: 10px;
+}
+
+.project h3{
+    padding-top: 10px;
+}
+
+.project h2,h3,p{
+  margin-top: 10px;
+  line-height: 35px;
+}
+
+.contact{
+   margin-top: 4%;
+   margin-left: 20%;
+    width: 60%;
+}
+
+.contact h1{
+    margin-left: 30%;
+    color: darkgrey;
+    font-size: 50px;
+
+}
+
+.infos p{
+    line-height: 40px;
+    color: darkgrey;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.nameform, .emailform,.messageform{
+    width: 99.90%;
+}
+.send{
+    margin-left: 80%;
+    padding: 1%;
+}
+.send:hover{
+    background-color: black;
+    color: white;
+    
+}
+
+.socials h1{
+    font-size: 25px;
+}
+.socials{
+    padding-bottom: 90px;
+    color: darkgrey;
+    margin-left: 20%;
+    width: 60%;
+}
